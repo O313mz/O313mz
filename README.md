@@ -1,6 +1,6 @@
-### Hi there 👋
-
+### A Passionate Developer
 - 🔭 I’m currently working on Android developement
+- I  know some thing about C,C++,JAVA
 - 🌱 I’m currently learning java 
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with velocity x documentation
