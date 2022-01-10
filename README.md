@@ -1,10 +1,5 @@
 ### A Passionate Developer
-- 🔭 I’m currently working on Android developement
-- I  know some thing about C,C++,JAVA
-- 🌱 I’m currently learning java 
-- 👯 I’m looking to collaborate on youtube
-- 🤔 I’m looking for help with velocity x documentation
+- I  know some thing about C,C++,JAVA 
 - 💬 Ask me about tech related stuff
-- 📫 How to reach me:on twitter @almujeeb64288826
-- 😄 Pronouns:you, yours..
+- 📫 How to reach me on Discord @mujeeb#6164
 - ⚡ Fun fact:rideing car and bikes
